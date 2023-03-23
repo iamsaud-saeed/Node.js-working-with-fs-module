@@ -1,0 +1,14 @@
+{
+  "name": "traversy-media-node",
+  "version": "1.0.0",
+  "description": "Demo node project traversy media",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "author": "saudsaeed",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
